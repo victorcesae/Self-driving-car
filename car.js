@@ -12,7 +12,7 @@ class Car{
       this.angle=0;
       this.damaged=false;
 
-      this.useBrain=controlType=="KEYS";
+      this.useBrain=controlType=="AI";
 
       if(controlType!="DUMMY"){
           this.sensor=new Sensor(this);
