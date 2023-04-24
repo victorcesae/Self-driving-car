@@ -1,2 +1,3 @@
-Desenvolvi com o intuito de aprender redes neurais e a mecânica por trás do movimento do carro: 
-Link para o site: victorcesae.github.io/self-driving-car/
+Desenvolvi com o intuito de aprender redes neurais e a mecânica por trás do movimento do carro.
+
+Link para o site: https://victorcesae.github.io/self-driving-car/
